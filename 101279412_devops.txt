@@ -4,4 +4,4 @@ Info on COMP 3104
 
 Devops is an awesome course where we learn how the practices and tools designed to increase an organization's ability to deliver software.
 
-edit 3
+edit 
