@@ -1,1 +1,5 @@
-DevOps engineers build new skills on top of their current experience. Using Tasks like data management and library updates for new product releases in combination with needs for leadership and collaboration across teams. It is important for DevOps engineers to understand the fundamentals of application development and delivery to achieve these goals.
+Student Name: Adam Vandyke
+Student Num: 101023594
+
+DevOps engineers build new skills on top of their current experience. Using Tasks like data management and library updates for new product releases in combination with needs for leadership and collaboration across teams. 
+It is important for DevOps engineers to understand the fundamentals of application development and delivery to achieve these goals.
