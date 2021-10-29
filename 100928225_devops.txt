@@ -1,0 +1,13 @@
+This file will contain information about COMP 3104 DevOps course.
+
+The COMP 3104 DevOps course at George Brown College is a somewhat awkward experience. Coming after 4 semesters chock full of group work, many of the
+skills taught in the course the students were forced to learn on our own in order to work effectively in a team. Compound that with the fact the 
+instructions given for the weekly exercises don't work correctly on every workstation the students attending the program remotely are using only
+serves to frustrate the students. I'll refrain from discussing the confusion caused by the differences between the instructors of the different 
+sections having to transfer to our section as well, as that's kind of a freak occurance that is unlikely to be a common issu. It does suggest that 
+some standardization of the curriculum could be of benefit however, as the Section A and B students were clearly having a very different learning 
+experience before they joined us.
+
+
+I highly recommend expanding on the exercise documentation to help resolve any errors discovered during the course, and moving the course to semester
+1 of the program.

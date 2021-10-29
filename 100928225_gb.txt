@@ -1,0 +1,8 @@
+This file will contain information about George Brown college.
+
+George Brown College is my second Post Secondary Education experience. I took a year of Computer Science at the University of Toronto right after
+graduating from High School, and lost funding after failing to adjust to the lifecycle. 10 years later I went to George Brown College and the
+difference in education between the College and University was impressive. U of T focused far too much on theory and not enough on practical knowledge
+to the degree that I felt far more capable after a year of College than I had after a year of University.
+
+I would strongly recommend going to college instead of University if you want to program for a living. 

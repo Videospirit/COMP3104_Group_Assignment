@@ -1,0 +1,11 @@
+This file will contain details about the importance of learning DevOps engineering to the software development cycle.
+
+I'm a very informal person, so I don't put much weight into using proper terminology, so forgive me if this sounds a little pedestrian.
+
+The main benefits of learning DevOps engineering are that you can make much better plans when working on any kind of software project. You could 
+theoretically go through a project without any kind of plan at all and still have it succeed, but proper DevOps engineering can speed development up,
+greatly reduces risks, and makes far more scalable projects than disorganized freestyle projects. Some might say that only the project managers and 
+those creating the plans need to understand how the entire development cycle works, and they'd probably be right for the most part. Effective leaders 
+can create plans that developers just need to follow, but if developers understand the philosophy themselves they can better anticipate future needs
+and avoid less scalable practices, increasing their efficiency. Plus, not everyone's perfect, and plans can have flaws. The more members of a project
+understand DevOps engineering, the more likely they are to improve on their plans.
